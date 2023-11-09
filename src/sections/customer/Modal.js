@@ -44,13 +44,13 @@ function MyModal({ open, handleClose }) {
                                         container
                                         spacing={3}
                                     >
-                                        <Grid
+                                        {/* <Grid
                                             xs={12}
                                             md={6}
                                             lg={4}
-                                        >
-                                            <AccountProfile />
-                                        </Grid>
+                                        > */}
+                                            {/* <AccountProfile /> */}
+                                        {/* </Grid> */}
                                         <Grid
                                             xs={12}
                                             md={6}
